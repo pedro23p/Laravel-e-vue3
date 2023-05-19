@@ -1,4 +1,4 @@
-Projeto Laravel e Vue - CRUD de Pessoas
+Projeto Laravel e Vue - 
 Este é um projeto de exemplo que demonstra a criação, listagem e exclusão de pessoas usando Laravel no backend e Vue.js no frontend. Além disso, o projeto inclui autenticação usando Sanctum para proteger as rotas.
 
 Recursos
