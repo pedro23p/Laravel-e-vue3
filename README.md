@@ -2,11 +2,11 @@ Projeto Laravel e Vue -
 Este é um projeto de exemplo que demonstra a criação, listagem e exclusão de pessoas usando Laravel no backend e Vue.js no frontend. Além disso, o projeto inclui autenticação usando Sanctum para proteger as rotas.
 
 Recursos
-Criação de pessoas com nome, idade e outros detalhes.
+Criação de pessoas com nome, descrição.
 Listagem de todas as pessoas cadastradas.
 Exclusão de pessoas existentes.
 Autenticação de usuários com Sanctum.
-Requisitos do sistema
+Requisitos do sistema:
 PHP >= 7.4
 Composer
 Node.js
