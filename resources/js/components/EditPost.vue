@@ -74,7 +74,6 @@ export default{
                 const formData = new FormData();
                 formData.append('name', this.name);
                 formData.append('description', this.description);
-                formData.append('file', this.img);
                 this.$axios.post(`/api/posts/update/${this.$route.params.id}`, formData, config)
                 .then(response => {
                     existingObj.strError = "";
